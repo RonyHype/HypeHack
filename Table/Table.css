@@ -144,3 +144,11 @@ header .badge {
     left: 245px;
     background-color: #2b323a;
 }
+
+#Addnew {
+ padding-left: 200px;
+}
+
+.side-menu {
+  margin-left: -35px;
+}
